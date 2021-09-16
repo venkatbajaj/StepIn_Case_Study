@@ -1,2 +1,3 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/39554bf369604ae78925c19d6279b299)](https://app.codacy.com/gh/venkatbajaj/StepIn_Case_Study?utm_source=github.com&utm_medium=referral&utm_content=venkatbajaj/StepIn_Case_Study&utm_campaign=Badge_Grade_Settings)
 [![Compile-Linux](https://github.com/venkatbajaj/StepIn_Case_Study/actions/workflows/compile.yml/badge.svg)](https://github.com/venkatbajaj/StepIn_Case_Study/actions/workflows/compile.yml)
 [![Cppcheck](https://github.com/venkatbajaj/StepIn_Case_Study/actions/workflows/Codequality.yml/badge.svg)](https://github.com/venkatbajaj/StepIn_Case_Study/actions/workflows/Codequality.yml)
