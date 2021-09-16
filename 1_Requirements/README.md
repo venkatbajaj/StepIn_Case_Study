@@ -1,6 +1,10 @@
 ## Introduction
 Whether it's too hot or too cold outside, we want the climate in the car to be exactly how we like it. So adjusting the temperature is often one of the first things we do when we get into a vehicle. This project Heat control system is built using atmega328 microcontroller, USART to display, ADC to covert analog to digital value. It controls the temperature by transferring suitable heat to the car whe the passenger is seated.
 
+## SWOT ANALYSIS
+![SWOT ANALYSIS](https://github.com/venkatbajaj/StepIn_Case_Study/blob/main/1_Requirements/SWOT.png)
+
+
 ## 4W's and 1'H
 ### WHO :
 Automobiles
