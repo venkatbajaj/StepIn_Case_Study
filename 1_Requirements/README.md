@@ -16,7 +16,6 @@ In the cold places.
 ### HOW 
 Setting the temperature manually become tedious.
 
-
 ## Detail requirements
 ### High Level Requirements
 | High Level Requirements      | Description |
