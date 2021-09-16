@@ -4,17 +4,16 @@ Whether it's too hot or too cold outside, we want the climate in the car to be e
 ## SWOT ANALYSIS
 ![SWOT ANALYSIS](https://github.com/venkatbajaj/StepIn_Case_Study/blob/main/1_Requirements/SWOT.png)
 
-
 ## 4W's and 1'H
-### WHO :
+### WHO 
 Automobiles
-### WHAT : 
+### WHAT  
 Heat Monitoring System
-### WHERE : 
+### WHERE  
 To check the temperature and to set temperature appropriately.
-### WHEN : 
+### WHEN 
 In the cold places.
-### HOW : 
+### HOW 
 Setting the temperature manually become tedious.
 
 
@@ -30,4 +29,3 @@ Setting the temperature manually become tedious.
 ### Low Level Requirements
 | Low Level Requirements      | Description |
 | ----------- | ----------- |
-
